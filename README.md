@@ -1,8 +1,8 @@
 ## Opa! Tudo bom ? Eu sou o Felipe Alves ✔
 <div align="center">
   <a href="https://github.com/felipealves07">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=felipealves07&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves07&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipealves07&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves07&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
