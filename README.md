@@ -2,14 +2,15 @@
 <div align="center">
   <a href="https://github.com/felipealves07">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipealves07&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves07&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves07&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/928369687622983690/928780578436829254/1005141.png">
+  </div>
   
   ##
   
